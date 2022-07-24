@@ -1,4 +1,8 @@
 .project{
+   background-color: aliceblue;
+}
+.project__cell{
     text-align: center;
+    margin: auto;
     color: aqua;
 }
